@@ -5,7 +5,7 @@ This is github repositories of Bangkit Academy 2023 Batch 2 Capstone Project fro
 Mental health is a crucial aspect of individual and societal well being in Indonesia, mental health issues are on the rise and effect various age groups, backgrounds, and life conditions.
 We strongly believe in the potential of technology, especially mobile applications, to meet these important needs. Through the integration of the text recognition and machine learning, our goal is to develop a mobile application for early detection of depression. Our team is united by a shared commitment to improving the mental wellbeing of young people.
 
-# Team Members 👯‍♀️
+# Team Members
 ### Team ID : CH2-PS301
 
 | Name   | Student ID  | Path |
